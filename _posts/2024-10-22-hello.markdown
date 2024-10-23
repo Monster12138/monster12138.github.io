@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Hello GitHub Pages!"
+date:   2024-10-22 18:58:38 +0800
+categories: jekyll update
+---
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
+
